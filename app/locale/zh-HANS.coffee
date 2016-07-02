@@ -86,7 +86,7 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     student_count: "学生数量："
     start_playing_for_free: "免费开玩！"
     students_and_players: "学生和玩家"
-    goto_classes: "到达我的班级"
+    goto_classes: "进入我的班级"
     view_profile: "查看我的资料"
     view_progress: "查看进度"
     check_out_wiki: "浏览我们新的 教育者Wiki"
